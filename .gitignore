@@ -1,0 +1,25 @@
+# Сборка
+build/
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+xcuserdata/
+
+# Секреты и личные данные — никогда не коммитить
+*.env
+.env*
+*.pem
+*.p12
+*.key
+secrets*
+data.json
+attachments/

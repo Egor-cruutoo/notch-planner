@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>ru</string>
+	<key>CFBundleExecutable</key>
+	<string>Ostrovok</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.ostrovok.app</string>
+	<key>CFBundleName</key>
+	<string>Островок</string>
+	<key>CFBundleDisplayName</key>
+	<string>Островок</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Островок показывает события из Календаря в расписании на день и не ставит задачи поверх них.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Островок показывает события из Календаря в расписании на день и не ставит задачи поверх них.</string>
+</dict>
+</plist>
